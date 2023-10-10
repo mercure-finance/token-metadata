@@ -1,0 +1,6 @@
+{
+    "name": "Mercure Euro",
+    "symbol": "mEUR",
+    "description": "A debt receipt token with Euro being the underlying loan price feed",
+    "image": "https://raw.githubusercontent.com/ousia-finance/token-metadata/main/euro.png"
+}
