@@ -1,0 +1,6 @@
+{
+    "name": "Mercure Swiss Franc",
+    "symbol": "mCHF",
+    "description": "A debt receipt token with the Swiss Franc being the underlying loan price feed",
+    "image": "https://raw.githubusercontent.com/ousia-finance/token-metadata/main/franc.png"
+}
