@@ -1,0 +1,6 @@
+{
+    "name": "Mercure Gold",
+    "symbol": "mXAU",
+    "description": "A debt receipt token with Gold being the underlying loan price feed",
+    "image": "https://s3-symbol-logo.tradingview.com/metal/gold--big.svg"
+}
